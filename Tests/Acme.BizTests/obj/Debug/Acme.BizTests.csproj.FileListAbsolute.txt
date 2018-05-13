@@ -1,0 +1,10 @@
+C:\Git\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.BizTests.dll
+C:\Git\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.BizTests.pdb
+C:\Git\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.Biz.dll
+C:\Git\AcmeApp\Tests\Acme.BizTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Git\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.Common.dll
+C:\Git\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.Biz.pdb
+C:\Git\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.Common.pdb
+C:\Git\AcmeApp\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.csprojResolveAssemblyReference.cache
+C:\Git\AcmeApp\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.dll
+C:\Git\AcmeApp\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.pdb

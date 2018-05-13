@@ -1,0 +1,13 @@
+C:\Git\AcmeApp\Acme.Win\bin\Debug\Acme.Win.exe.config
+C:\Git\AcmeApp\Acme.Win\bin\Debug\Acme.Win.exe
+C:\Git\AcmeApp\Acme.Win\bin\Debug\Acme.Win.pdb
+C:\Git\AcmeApp\Acme.Win\bin\Debug\Acme.Biz.dll
+C:\Git\AcmeApp\Acme.Win\bin\Debug\Acme.Common.dll
+C:\Git\AcmeApp\Acme.Win\bin\Debug\Acme.Biz.pdb
+C:\Git\AcmeApp\Acme.Win\bin\Debug\Acme.Common.pdb
+C:\Git\AcmeApp\Acme.Win\obj\Debug\Acme.Win.csprojResolveAssemblyReference.cache
+C:\Git\AcmeApp\Acme.Win\obj\Debug\Acme.Win.Properties.Resources.resources
+C:\Git\AcmeApp\Acme.Win\obj\Debug\Acme.Win.VendorWin.resources
+C:\Git\AcmeApp\Acme.Win\obj\Debug\Acme.Win.csproj.GenerateResource.Cache
+C:\Git\AcmeApp\Acme.Win\obj\Debug\Acme.Win.exe
+C:\Git\AcmeApp\Acme.Win\obj\Debug\Acme.Win.pdb
